@@ -14,7 +14,7 @@ It's very simple -> if you want to solve the challenge ```./Hack_The_Code_2024``
 - If you win, we'll let you know.
 
 ## WINNERS 🏆
-- 1st place: OUR PHYSICAL MUSIC ALBUM💿 + UndEcteD MAlwaRe🦟 (BAd-Usb Included) + 6/7 DrinKs on US 🍸
+- 1st place: OUR PHYSICAL MUSIC ALBUM💿 + UndEtecTeD MAlwaRe🦟 (BAd-Usb Included) + 6/7 DrinKs on US 🍸
 - 2nd place: 💿 + 🦟
 - 3rd place: 💿
 
