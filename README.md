@@ -25,7 +25,7 @@ It's very simple -> if you want to solve the challenge ```./Hack_The_Code_2024``
 - No rules, just hack the code.
 - No rules, just hack the code.
 
-~ YOU have less than ONE MONTH to solve the challenge, UNTIL 22/03/2024 ~
+~ YOU have less than TWO MONTHS to solve the challenge, UNTIL 30/04/2024 ~
 
 #### Good luck 🍀
 We are waiting for you. BUT if you have any questions, just open an ```ISSUE``` up here. We will answer you as soon as possible, or maybe someone else will. Use a system terminal on Linux or macOS, not an IDE's terminal like VSCode, for successful execution or it won't work (probably). ```TIP:``` You can ask for help, but you will not win first place, you CAN ask a friend--> you'll share the prize. If you are not able to solve ```Hack_The_Code_2024```, solve at least ```try_this_first!``` and you'll get a prize anyway, but it's not the same.
