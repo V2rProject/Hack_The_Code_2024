@@ -35,4 +35,4 @@ We are waiting for you. BUT if you have any questions, just open an ```ISSUE``` 
 <img src="https://github.com/V2rProject/Hack_The_Code_2024/blob/main/Hack_POSTER.png" alt="LOL" border="3">
 
 
-FINAL PARTY: 03rd of may --> [SHED626_MUSIC_HUB](https://maps.app.goo.gl/thxvusCgzgM7bw1J8)
+FINAL PARTY: 03rd of may 9.30pm --> [SHED626_MUSIC_HUB](https://maps.app.goo.gl/thxvusCgzgM7bw1J8)
